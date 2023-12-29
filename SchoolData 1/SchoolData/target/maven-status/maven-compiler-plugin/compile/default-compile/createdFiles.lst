@@ -1,0 +1,6 @@
+com\SchoolData\SchoolDataApplication.class
+com\SchoolData\Repository\SchollDataRepo.class
+com\SchoolData\Controller\SchoolDataController.class
+com\SchoolData\Request\SchoolDataRequest.class
+com\SchoolData\Entity\SchoolDataEntity.class
+com\SchoolData\Service\SchoolDataService.class
